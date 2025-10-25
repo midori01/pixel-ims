@@ -2,6 +2,9 @@
 
 English version available [here](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md).
 
+## 주의: Android 16 QPR2 Beta 3 이상의 버전을 사용 중인 경우
+구글 보안 패치의 도입으로 인해 Android 16 QPR2 Beta 3 이상의 버전에서는 해당 애플리케이션을 이용한 패치가 재부팅 시 초기화 될 수 있습니다. 자세한 사항은 아래의 "자주 묻는 질문" 을 참고하세요.
+
 ## 트러블슈팅
 
 [이곳](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/docs/troubleshooting.md)을 참조하세요.
@@ -108,7 +111,8 @@ English version available [here](https://github.com/kyujin-cho/pixel-volte-patch
 
 ### 해당 패치는 재부팅 시마다 다시 실행하여야 하나요?
 
-아니오.
+- 장치가 Android 16 QPR2 Beta 3 이상의 소프트웨어 버전에서 작동할 경우: [네](https://github.com/kyujin-cho/pixel-volte-patch/issues/398).
+- 그렇지 않을 경우: 아니오.
 
 ### 해당 패치는 시스템 업데이트 시마다 다시 실행하여야 하나요?
 
