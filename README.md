@@ -1,4 +1,3 @@
-# Pixel IMS: Tensor Pixel VoLTE 활성화
 
 English version available [here](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md).
 

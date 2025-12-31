@@ -1,4 +1,3 @@
-# Pixel IMS: Enable VoLTE on Tensor Pixel devices
 
 ## **Notice:** Changes may not persist across reboot on devices with Android 16 QPR2 Beta 3 or newer
 Due to security measures applied on Android on behalf of Google, you may have to reapply the patch across every reboot. Check FAQ section at the very bottom for more.
